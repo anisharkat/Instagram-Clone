@@ -47,9 +47,10 @@ To get started with this project, follow these steps:
 
    ```bash
    npm run dev
-
+   ```
    This will launch the app and open it in your default web browser.
 
+   
 
 ## Folder Structure
 
