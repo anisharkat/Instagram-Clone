@@ -54,12 +54,12 @@ To get started with this project, follow these steps:
 
 ## Folder Structure
 
-src/: Contains the source code for the application.
-components/: Reusable components like Navbar, Post, Profile, etc.
-pages/: Different pages of the app such as Home, Profile, Login, Signup, etc.
-hooks/: Custom hooks for handling logic.
-utils/: Utility functions and helpers.
-App.js: Main app component that includes routing and layout.
+- **src/:** Contains the source code for the application.
+- **components/:** Reusable components like Navbar, Post, Profile, etc.
+- **pages/:** Different pages of the app such as Home, Profile, Login, Signup, etc.
+- **hooks/:** Custom hooks for handling logic.
+- **utils/:** Utility functions and helpers.
+- **App.js:** Main app component that includes routing and layout.
 
 ## Contributing
 Contributions are welcome! Feel free to submit a pull request or open an issue.
